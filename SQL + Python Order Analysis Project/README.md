@@ -4,8 +4,9 @@ In this project, data is downloaded from Kaggle, then unzipped the data, created
 
 ![image](https://github.com/user-attachments/assets/f8c895f5-a141-4280-8020-2737485718c4)
 
+The idea behind this project is that the company would like to make some data-driven decisions based on the analysis of a few questions that it had in mind.
 
-### Key Insights:
+### Some Key Insights:
 
 1. Top 10 Highest Profit Generating Products
 
