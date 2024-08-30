@@ -85,4 +85,42 @@ This introductory report outlines the key questions that will guide the data ana
 
 ### Some useful Insights:
 
+1. Top Sales Per Category
+
+![image](https://github.com/user-attachments/assets/87db9424-13eb-4192-b27d-3a941a5832ce)
+
+2. Count of Customers by States
+
+![image](https://github.com/user-attachments/assets/ada104b1-3625-40b6-854f-a8a291351dce)
+
+3. Percentage Distribution by Category
+
+![image](https://github.com/user-attachments/assets/4ae6c4b0-2779-4d44-813e-29001dfd36a5)
+
+4. Identify the correlation between product price and the number of times a product has been purchased.
+
+![image](https://github.com/user-attachments/assets/edaa067d-6378-4bfc-82ba-83eb0ee1ed73)
+
+Inference:
+- The slight negative trend suggests that, generally, as the price increases, the number of orders decreases, but this effect is not strong.
+- It's likely that other factors besides price are significantly influencing the number of orders, such as product quality, brand, market demand, or category-specific attributes.
+
+Overall, the relationship between price and order count is not strong, indicating that simply lowering prices may not substantially increase order volumes for these products.
+
+5. Top 5 Sellers by Revenue
+
+![image](https://github.com/user-attachments/assets/083941dd-c9fd-4406-aa77-9b24f0fb1c9c)
+
+6. Cumulative Sales Per Month for Each Year
+
+![image](https://github.com/user-attachments/assets/8f6ef7d3-2c05-4b68-8f45-accca38b0fee)
+
+![image](https://github.com/user-attachments/assets/2cdd1270-9e28-47c5-bccb-3e0ce47ef709)
+
+7. Top 3 Customers by Payment in Each Year
+
+![image](https://github.com/user-attachments/assets/b59240f8-243e-403f-87b7-f306f585f140)
+
+
+
 
