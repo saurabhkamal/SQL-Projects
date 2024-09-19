@@ -107,10 +107,15 @@ both lines show a steady increase from 2021 onwards.
 ![image](https://github.com/user-attachments/assets/5f1da253-ebe7-475c-b8e8-658c38e26b4d)
 
 The provided heatmap is a correlation matrix that shows the relationships between different variables related to restaurant data. The variables include:
+
 •	review_count: The number of reviews for a restaurant
+
 •	useful_count: The number of times reviews were marked as useful
+
 •	funny_count: The number of times reviews were marked as funny
+
 •	cool_count: The number of times reviews were marked as cool
+
 •	success_score: A measure of the restaurant's overall success
 
 #### Interpreting the Correlations:
@@ -122,6 +127,39 @@ The provided heatmap is a correlation matrix that shows the relationships betwee
 - review_count and useful_count: There's a moderate positive correlation of 0.54 between these variables, suggesting that restaurants with more reviews are also more likely to have reviews marked as useful.
 
 - review_count and funny_count: A moderate positive correlation of 0.32 exists between these variables, indicating that restaurants with more reviews may also have more reviews melationships and causal mechanisms.
+
+(9). Is there any difference in engagement of elite users and non-elite users?
+
+Elite users on Yelp are considered to be more active and high-quality contributors than non-Elite users:
+
+1.	Number of reviews: Elite users write more than seven times as many reviews as the average user
+2.	Review quality: Elite users are known for their thoughtful, well-written reviews.
+3.	Photos: Elite users are known for their high-quality photos.
+
+![image](https://github.com/user-attachments/assets/181d6aad-41ba-4405-b942-90ac16e2f26d)
+
+-	Elite users, despite being significantly fewer in number, contribute a substantial proportion of the total review count compared to non-elite users.
+
+-	Establishing a positive relationship with elite users can lead to repeat visits and loyalty, as they are more likely to continue supporting businesses they have had good experience with.
+
+(10). Busiest hours for restaurants?
+
+![image](https://github.com/user-attachments/assets/2d690dca-7801-4f65-9736-08bac71cb7dd)
+
+-	The busiest hours for restaurants, based on user engagement, span from 4 pm to 12 am.
+
+-	Knowing the peak hours allow businesses to optimize their staffing levels and resource allocation during these times to ensure efficient operations and quality service delivery.
+
+-	The concentration of user engagement during the evening and night hours suggests a higher demand for dining out during these times, potentially driven by factors such as work schedules, social gatherings, and leisure activities.
+
+Recommendations:
+
+1.	Collaborating with elite users and leveraging their influence can amplify promotional efforts, increase brand awareness and drive customer acquisition.
+2.	Businesses can adjust their operating hours or introduce special promotions to capitalize on the increased demand during peak hours.
+3.	Less successful businesses may need to focus on strategies to enhance user engagement over time, such as improving service quality, responding to customer feedback.
+4.	Cities with high success scores presents opportunities for restaurant chains to expand or invest further.
+5.	Utilizing insights from the analysis of various metrics such as user engagement, peak hours, and the impact of elite users, businesses can make informed decisions to drive successes. 
+
 
 
 
