@@ -43,12 +43,12 @@ https://www.yelp.com/dataset
 
 #### 3.	Analysis and Findings:
 
-(1). Out of 150K businesses, 35K are restaurants business and are operational.
+#### (1). Out of 150K businesses, 35K are restaurants business and are operational.
 -	Table showing distribution of business success metrics (review count and average rating):
 
 ![image](https://github.com/user-attachments/assets/a6ff4c5c-ff71-4918-836a-99703ebe234c)
 
-(2). Comparing Highest Review Count with Highest Rating
+#### (2). Comparing Highest Review Count with Highest Rating
 
 ![image](https://github.com/user-attachments/assets/971af31e-09fa-43ff-89a5-32de8b96d879)
 
@@ -58,7 +58,7 @@ https://www.yelp.com/dataset
   
 -	Review count reflects user engagement but not necessarily overall customer satisfaction or business performance.
 
-(3). Do restaurants with higher engagement tend to have higher ratings?
+#### (3). Do restaurants with higher engagement tend to have higher ratings?
 - Data shows a general increase in average review, check-in, and tip counts as ratings improve from 1 to 4 stars.
   
 - Restaurants rated 4 stars exhibit the highest engagement and shows a downward trend for rating above 4.#
@@ -67,7 +67,7 @@ https://www.yelp.com/dataset
 
 ![image](https://github.com/user-attachments/assets/69a0f1c1-0386-4385-8fd9-f5d214b8f5d7)
 
-(4). Is there a correlation between the number of reviews, tips, and check-ins for a business?
+#### (4). Is there a correlation between the number of reviews, tips, and check-ins for a business?
 
 - These correlations suggest that user engagement across different platforms (reviews, tips, and check-ins) is interlinked; higher activity in one area tends to be associated with higher activity in others.
 
@@ -75,7 +75,7 @@ https://www.yelp.com/dataset
 
 ![image](https://github.com/user-attachments/assets/b3376acd-d1ef-4e4c-90f4-1256a218a7b7)
 
-(5). Is there a difference in the user engagement between high-rated and low-rated businesses?
+#### (5). Is there a difference in the user engagement between high-rated and low-rated businesses?
 
 ![image](https://github.com/user-attachments/assets/077e632a-5cb2-420f-8d92-645e58687286)
 
@@ -83,7 +83,7 @@ https://www.yelp.com/dataset
 
 -	This pattern underscores the importance of maintaining high service and quality standards, as these appear to drive more reviews, check-ins, and tips, which are critical metrics of customer engagement and satisfaction.
 
-(6). How do the success metrics of restaurants vary across different states and cities?
+#### (6). How do the success metrics of restaurants vary across different states and cities?
 
 ![image](https://github.com/user-attachments/assets/4d801e1e-f465-45a4-a474-d9c1efe027c4)
 
@@ -91,7 +91,7 @@ https://www.yelp.com/dataset
 
 -	Following Philadelphia, Tampa, Indianapolis, and Tucson rank among the top cities with significant success in scores, suggesting thriving restaurants scenes in these areas.
 
-(7). Are there any patterns in user engagement over time for successful businesses compared to less successful ones?
+#### (7). Are there any patterns in user engagement over time for successful businesses compared to less successful ones?
 
 ![image](https://github.com/user-attachments/assets/566141e2-6a50-4703-ac24-4ef1834caa90)
 
@@ -102,7 +102,7 @@ both lines show a steady increase from 2021 onwards.
 
 - Average Rating: The average rating shows a slight upward trend from 2017 to 2019. In 2020, there's a noticeable dip in the average rating. From 2021, the average rating starts to recover and reaches its highest point in 2022.
 
-(8). How does the sentiment of reviews and tips (useful, funny, cool) correlate with the success metrics of restaurants?
+#### (8). How does the sentiment of reviews and tips (useful, funny, cool) correlate with the success metrics of restaurants?
 
 ![image](https://github.com/user-attachments/assets/5f1da253-ebe7-475c-b8e8-658c38e26b4d)
 
@@ -128,7 +128,7 @@ The provided heatmap is a correlation matrix that shows the relationships betwee
 
 - review_count and funny_count: A moderate positive correlation of 0.32 exists between these variables, indicating that restaurants with more reviews may also have more reviews melationships and causal mechanisms.
 
-(9). Is there any difference in engagement of elite users and non-elite users?
+#### (9). Is there any difference in engagement of elite users and non-elite users?
 
 Elite users on Yelp are considered to be more active and high-quality contributors than non-Elite users:
 
@@ -142,7 +142,7 @@ Elite users on Yelp are considered to be more active and high-quality contributo
 
 -	Establishing a positive relationship with elite users can lead to repeat visits and loyalty, as they are more likely to continue supporting businesses they have had good experience with.
 
-(10). Busiest hours for restaurants?
+#### (10). Busiest hours for restaurants?
 
 ![image](https://github.com/user-attachments/assets/2d690dca-7801-4f65-9736-08bac71cb7dd)
 
