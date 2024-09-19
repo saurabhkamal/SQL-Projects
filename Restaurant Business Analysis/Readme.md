@@ -22,3 +22,23 @@ Understanding the factors that drive business success is essential for stakehold
 •	The JSON files are stored in a database to facilitate easy data retrieval.
 
 
+**STEPS:-**
+
+#### 1.	Downloading Yelp dataset
+https://www.yelp.com/dataset 
+
+#### 2.	Database Creation file
+(a). Opened all JSON files one-by-one.
+(b). Loaded them with json.loads
+(c). And then converted them into data frames 
+(d). Created sqlite engine yelp.db to create database
+(e). Transferring all the data frames to the yelp.db database by storing them into five different tables.
+
+#### 3.	Analysis and Findings:
+
+
+
+
+
+
+
