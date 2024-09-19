@@ -83,6 +83,20 @@ https://www.yelp.com/dataset
 
 -	This pattern underscores the importance of maintaining high service and quality standards, as these appear to drive more reviews, check-ins, and tips, which are critical metrics of customer engagement and satisfaction.
 
+(6). How do the success metrics of restaurants vary across different states and cities?
+
+![image](https://github.com/user-attachments/assets/4d801e1e-f465-45a4-a474-d9c1efe027c4)
+
+-	Philadelphia emerges as the top city with the highest success score, indicating a combination of high ratings and active user engagement.
+
+-	Following Philadelphia, Tampa, Indianapolis, and Tucson rank among the top cities with significant success in scores, suggesting thriving restaurants scenes in these areas.
+
+(7). Are there any patterns in user engagement over time for successful businesses compared to less successful ones?
+
+![image](https://github.com/user-attachments/assets/566141e2-6a50-4703-ac24-4ef1834caa90)
+
+
+
 
 
 
