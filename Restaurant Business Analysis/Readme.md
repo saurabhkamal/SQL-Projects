@@ -95,6 +95,35 @@ https://www.yelp.com/dataset
 
 ![image](https://github.com/user-attachments/assets/566141e2-6a50-4703-ac24-4ef1834caa90)
 
+- Tip Engagement: Both high-rated and low-rated tip engagement appear to have increased significantly between 2017 and 2019, with a slight decline in 2020. However, 
+both lines show a steady increase from 2021 onwards.
+
+- Review Engagement: Similar to tip engagement, review engagement for both high-rated and low-rated categories shows a significant increase from 2017 to 2019. In 2020, there's a noticeable dip in review engagement, especially for low-rated reviews. From 2021, review engagement starts to recover, with a more pronounced increase in high-rated reviews.
+
+- Average Rating: The average rating shows a slight upward trend from 2017 to 2019. In 2020, there's a noticeable dip in the average rating. From 2021, the average rating starts to recover and reaches its highest point in 2022.
+
+(8). How does the sentiment of reviews and tips (useful, funny, cool) correlate with the success metrics of restaurants?
+
+![image](https://github.com/user-attachments/assets/5f1da253-ebe7-475c-b8e8-658c38e26b4d)
+
+The provided heatmap is a correlation matrix that shows the relationships between different variables related to restaurant data. The variables include:
+•	review_count: The number of reviews for a restaurant
+•	useful_count: The number of times reviews were marked as useful
+•	funny_count: The number of times reviews were marked as funny
+•	cool_count: The number of times reviews were marked as cool
+•	success_score: A measure of the restaurant's overall success
+
+#### Interpreting the Correlations:
+(a).	Strong Positive Correlations:
+- useful_count and cool_count: These two variables have a very strong positive correlation of 0.92, suggesting that reviews that are marked as useful are also likely to be marked as cool.
+- review_count and success_score: A strong positive correlation of 0.77 exists between these two variables, indicating that restaurants with more reviews tend to have higher success scores.
+
+(b). Moderate Positive Correlations:
+- review_count and useful_count: There's a moderate positive correlation of 0.54 between these variables, suggesting that restaurants with more reviews are also more likely to have reviews marked as useful.
+
+- review_count and funny_count: A moderate positive correlation of 0.32 exists between these variables, indicating that restaurants with more reviews may also have more reviews melationships and causal mechanisms.
+
+
 
 
 
