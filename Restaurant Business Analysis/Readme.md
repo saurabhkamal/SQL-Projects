@@ -152,7 +152,7 @@ Elite users on Yelp are considered to be more active and high-quality contributo
 
 -	The concentration of user engagement during the evening and night hours suggests a higher demand for dining out during these times, potentially driven by factors such as work schedules, social gatherings, and leisure activities.
 
-Recommendations:
+## Recommendations:
 
 1.	Collaborating with elite users and leveraging their influence can amplify promotional efforts, increase brand awareness and drive customer acquisition.
 2.	Businesses can adjust their operating hours or introduce special promotions to capitalize on the increased demand during peak hours.
