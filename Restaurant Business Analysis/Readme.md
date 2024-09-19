@@ -48,6 +48,11 @@ https://www.yelp.com/dataset
 
 ![image](https://github.com/user-attachments/assets/a6ff4c5c-ff71-4918-836a-99703ebe234c)
 
+(2). Comparing Highest Review Count with Highest Rating
+
+![image](https://github.com/user-attachments/assets/971af31e-09fa-43ff-89a5-32de8b96d879)
+
+
 
 
 
