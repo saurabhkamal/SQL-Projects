@@ -67,6 +67,24 @@ https://www.yelp.com/dataset
 
 ![image](https://github.com/user-attachments/assets/69a0f1c1-0386-4385-8fd9-f5d214b8f5d7)
 
+(4). Is there a correlation between the number of reviews, tips, and check-ins for a business?
+
+- These correlations suggest that user engagement across different platforms (reviews, tips, and check-ins) is interlinked; higher activity in one area tends to be associated with higher activity in others.
+
+- Business should focus on strategies that boost all types of user engagement, as increases in one type of engagement are likely to drive increases in others, enhancing overall visibility and interaction with customers.
+
+![image](https://github.com/user-attachments/assets/b3376acd-d1ef-4e4c-90f4-1256a218a7b7)
+
+(5). Is there a difference in the user engagement between high-rated and low-rated businesses?
+
+![image](https://github.com/user-attachments/assets/077e632a-5cb2-420f-8d92-645e58687286)
+
+-	Data indicates a clear correlation between higher ratings and increased user engagement across reviews, tips, and check-ins.
+
+-	This pattern underscores the importance of maintaining high service and quality standards, as these appear to drive more reviews, check-ins, and tips, which are critical metrics of customer engagement and satisfaction.
+
+
+
 
 
 
