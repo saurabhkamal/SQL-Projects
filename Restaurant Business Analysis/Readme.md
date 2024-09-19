@@ -52,6 +52,22 @@ https://www.yelp.com/dataset
 
 ![image](https://github.com/user-attachments/assets/971af31e-09fa-43ff-89a5-32de8b96d879)
 
+-	Higher ratings do not guarantee a higher review count, or vice versa.
+  
+-	Succes of Restaurants is not solely determined by ratings or review counts.
+  
+-	Review count reflects user engagement but not necessarily overall customer satisfaction or business performance.
+
+(3). Do restaurants with higher engagement tend to have higher ratings?
+- Data shows a general increase in average review, check-in, and tip counts as ratings improve from 1 to 4 stars.
+  
+- Restaurants rated 4 stars exhibit the highest engagement and shows a downward trend for rating above 4.#
+  
+- The drop in engagement at 5.0 stars might suggest either a saturation point where fewer customers feel compelled to add their reviews, or a selectively where only a small, satisfied audience frequent these establishments.
+
+![image](https://github.com/user-attachments/assets/69a0f1c1-0386-4385-8fd9-f5d214b8f5d7)
+
+
 
 
 
