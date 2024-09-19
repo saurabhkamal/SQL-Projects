@@ -46,7 +46,8 @@ https://www.yelp.com/dataset
 (1). Out of 150K businesses, 35K are restaurants business and are operational.
 -	Table showing distribution of business success metrics (review count and average rating):
 
-  ![image](https://github.com/user-attachments/assets/2c009891-a34a-4987-8345-58b548f2a021)
+![image](https://github.com/user-attachments/assets/a6ff4c5c-ff71-4918-836a-99703ebe234c)
+
 
 
 
